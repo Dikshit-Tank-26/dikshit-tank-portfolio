@@ -49,15 +49,8 @@ This repository contains the source code for my personal portfolio website, incl
 ## 🌐 Portfolio Website
 
 🔗 **Visit my portfolio:**  
-[View Portfolio](#)
+[[View Portfolio](https://dikshit-tank-portfolio.vercel.app/)
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Your LinkedIn Profile](#)
-- 🐙 GitHub: [Your GitHub Profile](#)
-- 📧 Email: [Your Email](#)
-
----
 
 ⭐ **If you find this portfolio interesting, consider giving the repository a star!**
 
