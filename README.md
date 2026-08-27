@@ -49,7 +49,7 @@ This repository contains the source code for my personal portfolio website, incl
 ## 🌐 Portfolio Website
 
 🔗 **Visit my portfolio:**  
-[[View Portfolio](https://dikshit-tank-portfolio.vercel.app/)
+[View Portfolio](https://dikshit-tank-portfolio.vercel.app/)
 
 
 ⭐ **If you find this portfolio interesting, consider giving the repository a star!**
