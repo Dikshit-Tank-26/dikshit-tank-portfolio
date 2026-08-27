@@ -5,7 +5,7 @@ export const personalInfo = {
   phone: "+91 9723922927",
   email: "tankdikshit@gmail.com",
   location: "Surat / Bardoli, Gujarat, India",
-  github: "https://github.com",
+  github: "https://github.com/Dikshit-Tank-26",
   linkedin: "https://linkedin.com",
   portfolio: "https://dikshit-tank.vercel.app",
   status: "Open to AI/ML & Full-Stack Opportunities",
