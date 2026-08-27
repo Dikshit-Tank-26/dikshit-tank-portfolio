@@ -1,16 +1,64 @@
-# React + Vite
+# AI & Machine Learning Developer Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal portfolio repository! This project showcases my skills, projects, and experience in **Artificial Intelligence, Machine Learning, Python, NLP, Data Science, and Web Development**.
 
-Currently, two official plugins are available:
+## 🔹 Technologies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🐍 Python
+- 🤖 Machine Learning & Deep Learning
+- 🧠 NLP & Generative AI
+- 📊 TensorFlow & Scikit-Learn
+- ⚡ FastAPI & Streamlit
+- ⚛️ React.js
+- 🗄️ SQL
+- 🔧 Git & GitHub
 
-## React Compiler
+## 🔹 Featured Projects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🤖 **AI Resume Analyzer**
+- 📄 **DocuChat – AI PDF Chatbot**
+- 😴 **Sleep Quality Predictor**
+- 💰 **AI Financial Assistant**
+- 🏠 **House Price Prediction**
+- 🌐 **Web Development Projects**
 
-## Expanding the Oxlint configuration
+## 🔹 Portfolio
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+This repository contains the source code for my personal portfolio website, including:
+
+- 👨‍💻 About Me
+- 🛠️ Technical Skills
+- 🚀 Projects
+- 🎓 Education
+- 💼 Experience
+- 📜 Certifications
+- 📞 Contact
+
+## 🔹 Key Areas
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI
+- Data Science
+- Full-Stack Web Development
+- API Development
+- AI Application Development
+
+## 🌐 Portfolio Website
+
+🔗 **Visit my portfolio:**  
+[View Portfolio](#)
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn Profile](#)
+- 🐙 GitHub: [Your GitHub Profile](#)
+- 📧 Email: [Your Email](#)
+
+---
+
+⭐ **If you find this portfolio interesting, consider giving the repository a star!**
+
+Made with ❤️ by **Dikshit Tank**
